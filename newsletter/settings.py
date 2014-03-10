@@ -39,7 +39,8 @@ INSTALLED_APPS = (
     'rest_framework',
     'provider',
     'provider.oauth2',
-    'south'
+    'south',
+    'subscriptors',
 )
 
 MIDDLEWARE_CLASSES = (
