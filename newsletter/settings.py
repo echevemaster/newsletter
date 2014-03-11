@@ -42,6 +42,7 @@ INSTALLED_APPS = (
     'south',
     'subscriptors',
     'mails',
+    'histories',
 )
 
 MIDDLEWARE_CLASSES = (
