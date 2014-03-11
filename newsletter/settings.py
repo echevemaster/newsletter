@@ -41,6 +41,7 @@ INSTALLED_APPS = (
     'provider.oauth2',
     'south',
     'subscriptors',
+    'mails',
 )
 
 MIDDLEWARE_CLASSES = (
