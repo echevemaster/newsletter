@@ -1,5 +1,4 @@
 from django.db import models
-
 from provider.oauth2.models import Client
 
 
